@@ -17,7 +17,7 @@ var usr = true;
 
 while(ulangiPemesanan){
 
-    var usrMakanan = prompt("pilih satu menu makanan dan minuman yang ada di menu berikut :\n-Menu makanan : burger, kebab, hotdog, corndog, capcai, salad, soup daging, tumis kangkung \n-Menu minuman : susu, teh, air putih, kopi, jahe, pop ice ")
+    var usrMakanan = prompt("pilih satu menu makanan dan minuman yang ada di menu berikut :\n-Menu makanan : burger, kebab, hotdog, corndog, capcai, salad, soup daging, tumis kangkung \n-Menu minuman : susu, teh, air putih, kopi, jahe, pop ice (cooming soon)")
 
         switch(usrMakanan){
         case "burger" :
