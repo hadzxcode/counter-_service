@@ -25,6 +25,7 @@ while(ulangiPemesanan){
         case "hotdog" :
         case "corndog" :
             alert("Rp 10.000,00 \nini adalah makanan tidak sehat")
+            break;
         case "salad" :
             alert("Rp 20.000,00 \nini adalah makanan sehat")
             break;
